@@ -1,0 +1,27 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.sign-in-btn {
+  background-color: #352b92;
+  color: white;
+  margin: 4em;
+  padding: 1em;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+
+.sign-in-btn:hover {
+  background-color: #6357d1;
+  transition: ease 0.4s;
+}
+
+.user-pic {
+  border-radius: 50%;
+}
